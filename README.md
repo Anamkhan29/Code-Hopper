@@ -1,4 +1,4 @@
-# Polyglot Flap: Learn 6 Programming Languages While Playing!
+# Code-Hopper: Learn 6 Programming Languages While Playing!
 
 ## Overview
 
