@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Polyglot Flap** is a fun, interactive Flappy Bird-style game that helps users **learn programming concepts across 6 different languages**:  
+**Code-Hopper** is a fun, interactive Flappy Bird-style game that helps users **learn programming concepts across 6 different languages**:  
 
 - **Java**  
 - **Python**  
@@ -57,19 +57,10 @@ flappy-quiz/
 This project is **live on Google Antigravity**.  
 
 **Live URL:**  
-[https://yourprojectname.antigravity.app](https://yourprojectname.antigravity.app)
+
 
 **Steps to deploy locally / edit:**
 
-1. Copy all files into a folder  
-2. Open `index.html` in a browser to test locally  
-3. To deploy on Antigravity:
-   - Open Google Antigravity  
-   - Create a new HTML/JS/CSS project  
-   - Copy all files into the editor  
-   - Click **Deploy** to get your live URL  
-
----
 
 ## Technologies Used
 
