@@ -1,0 +1,5 @@
+{
+  "name": "Code Hopper",
+  "description": "A Flappy Bird style game where you must answer programming quiz questions to keep hopping.",
+  "requestFramePermissions": []
+}
